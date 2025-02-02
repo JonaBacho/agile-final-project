@@ -1,2 +1,2 @@
 # agile-final-project
-project for my certificat
+project for obtaining my IBM scrum certification
